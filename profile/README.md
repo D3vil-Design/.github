@@ -1,7 +1,7 @@
 # The D3D Team
 The D3vil Design team is a collective of engineers, developers, and curious tinkerers. We're dedicated to creating user-friendly and useful tools, mods, and more to help users get the most out of their 3D printers.
 
-## ~Top Secret~
+## Top Secret
 Coming soon.
 
 ## Creality K1 Hardware & Software Mods
