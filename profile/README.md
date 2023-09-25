@@ -7,4 +7,4 @@ Coming soon.
 ## Creality K1 Hardware & Software Mods
 [![K1-Octoeverywhere](https://github-readme-stats.vercel.app/api/pin/?username=mikebcbc&repo=K1-OctoEverywhere&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/mikebcbc/K1-OctoEverywhere) [![K1-moonraker-timelapse](https://github-readme-stats.vercel.app/api/pin/?username=mikebcbc&repo=creality-k1-moonraker-timelapse&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/mikebcbc/creality-k1-moonraker-timelapse)
 
-[![K1](https://github-readme-stats.vercel.app/api/pin/?username=Omranello&repo=K1&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/Omranello/K1)
+[![K1](https://github-readme-stats.vercel.app/api/pin/?username=D3vil-Design&repo=K1&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/D3vil-Design/K1-Hardware-Mods)
