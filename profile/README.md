@@ -12,5 +12,3 @@ Coming soon.
 ## Support Us
 
 If you would like to support the team to fund future projects, you can visit us at our [Patreon](https://www.patreon.com/D3vilDesign). We will begin posting behind the scenes projects, beta access to projects in flight, and more exclusively for our [Patreon](https://www.patreon.com/D3vilDesign) supporters. If you're interested in more K1 work (and some "top secret" work outside of the K1 😉), please consider [supporting the team](https://www.patreon.com/D3vilDesign). All funds go directly to the development and support of the D3vil Design team!
-
-<a href="https://www.patreon.com/bePatron?u=3218441" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
