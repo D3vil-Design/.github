@@ -9,8 +9,6 @@ Coming soon.
 
 [![K1](https://github-readme-stats.vercel.app/api/pin/?username=D3vil-Design&repo=K1&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/D3vil-Design/K1-Hardware-Mods)
 
-## Creality Ender3 V3 KE Hardware & Software Mods
-[![Ender3 V3 KE Hardware mods](https://github-readme-stats.vercel.app/api/pin/?username=D3vil-Design&repo=Ender3-V3-KE-Hardware-mods&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-mods)
 
 ## Support Us
 
