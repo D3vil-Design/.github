@@ -7,7 +7,7 @@ The D3vil Design team is a collective of engineers, developers, and curious tink
 
 [![K1](https://github-readme-stats.vercel.app/api/pin/?username=D3vil-Design&repo=K1&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/D3vil-Design/K1-Hardware-Mods)
 
-[![K1-Cyclops](https://github-readme-stats.vercel.app/api/pin/?username=D3vil-Design&repo=K1&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/D3vil-Design/Cyclops-Extruder)
+[![K1-Cyclops](https://github-readme-stats.vercel.app/api/pin/?username=D3vil-Design&repo=Cyclops-Extruder&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/D3vil-Design/Cyclops-Extruder)
 
 ## Ender 3 V3 KE Hardware & Software Mods
 
