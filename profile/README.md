@@ -12,6 +12,7 @@ The D3vil Design team is a collective of engineers, developers, and curious tink
 [![Ender3-V3-KE-Hardware-Mods](https://github-readme-stats.vercel.app/api/pin/?username=D3vil-Design&repo=Ender3-V3-KE-Hardware-Mods&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods)
 
 ## Kraken Steppers
+[![K1-Cyclops](https://github-readme-stats.vercel.app/api/pin/?username=D3vil-Design&repo=Kraken-Stepper&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/D3vil-Design/Kraken-Stepper)
 
 
 ## Support Us
